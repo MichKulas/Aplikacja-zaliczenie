@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nazwa_kalk">Wstaw wartości masy i wzrostu</string>
+    <string name="sWzrost">Wzrost [cm]</string>
+    <string name="sMasa">Masa [kg]</string>
+    <string name="SbOK">Oblicz</string>
+    <string name="sBMI">Twój BMI</string>
+</resources>
